@@ -1,3 +1,5 @@
+
+# py-blake256-stratum
 -------------------------------------------------------------------------------------
 
 
@@ -7,8 +9,11 @@
 
 3 - blake256r14_80_miner - basic blake256 miner - for normal 80-byte header blake 256
 
+see also: https://github.com/devwarrior777/decred-hash-py.git
 
 -------------------------------------------------------------------------------------
+
+_Historical:_
 
 NightMiner
 ==========
@@ -223,5 +228,3 @@ Umm... Ok? :-)
 _Bitcoin_  - `1LNdGsYtZXWeiKjGba7T997qvzrWqLXLma`
 _Litecoin_ - `LXths3ddkRtuFqFAU7sonQ678bSGkXzh5Q`
 _Namecoin_ - `N6JLCggCyYcpcUq3ydJtLxv67eEJg4Ntk2`
-
-# py-blake256-stratum
